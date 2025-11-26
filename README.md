@@ -1,8 +1,8 @@
 # Hey, I'm Juan 👋
 
-<p>💻 IT student at **Epitech Nice** in first year of Bachelors</p>
-<p>⚡ I love to learn, I'm a hobby collector</p>
-<p>🌱 Always eager to gain new skills and discover new technologies</p> 
+💻 IT student at **Epitech Nice** in first year of Bachelors
+⚡ I love to learn, I'm a hobby collector
+🌱 Always eager to gain new skills and discover new technologies 
 
 --- 
 
