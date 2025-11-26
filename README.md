@@ -1,10 +1,10 @@
 # Hey, I'm Juan 👋
 
-💻 IT student at **Epitech Nice** in first year of Bachelors\n
-⚡ I love to learn, I'm a hobby collector\n
-🌱 Always eager to gain new skills and discover new technologies  
+<p>💻 IT student at **Epitech Nice** in first year of Bachelors</p>
+<p>⚡ I love to learn, I'm a hobby collector</p>
+<p>🌱 Always eager to gain new skills and discover new technologies</p> 
 
----
+--- 
 
 ## 🚀 Tech Stack 
 
