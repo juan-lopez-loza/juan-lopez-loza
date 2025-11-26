@@ -43,6 +43,5 @@
 
 ## 📈 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juan-lopez-loza&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-lopez-loza)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=juan-lopez-loza)](https://github.com/anuraghazra/github-readme-stats)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-lopez-loza&layout=compact&hide_border=true&theme=tokyonight)
